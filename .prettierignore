@@ -1,0 +1,9 @@
+# Ignore artifacts:
+#node_modules默认忽略
+node_modules/
+dist/
+bulid/
+.cache
+
+#Ignore all html files
+*.html

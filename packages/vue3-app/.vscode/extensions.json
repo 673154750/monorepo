@@ -1,0 +1,4 @@
+{
+  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+}
+// vscode官方推荐安装插件列表，若没有安装，vscode在项目启动时，右下角会有提示
